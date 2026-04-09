@@ -14,19 +14,19 @@ export default function App() {
             </Text>
             <Link
                 href="/onboarding"
-                className="mt-4 rounder bg-primary text-white p-4"
+                className="mt-4 rounded bg-primary text-white p-4"
             >
                 Go to OnBoarding
             </Link>
             <Link
                 href="/(auth)/signup"
-                className="mt-4 rounder bg-primary text-white p-4"
+                className="mt-4 rounded bg-primary text-white p-4"
             >
                 Go to Sign Up
             </Link>
             <Link
                 href="/(auth)/signin"
-                className="mt-4 rounder bg-primary text-white p-4"
+                className="mt-4 rounded bg-primary text-white p-4"
             >
                 Go to Sign In
             </Link>
